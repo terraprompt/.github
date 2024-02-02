@@ -1,4 +1,6 @@
-## Hi there 👋
+## Terraprompt
+
+We are a AI research and product organisation.
 
 <!--
 
