@@ -1,6 +1,6 @@
 ### Hi! I am [@terraprompt](https://twitter.com/terraprompt) (Terraprompt AI)
 
-We are a AI research and development company. 
+We are an AI research and development company. 
 
 We are lead by [@dipankar](https://github.com/dipankar), who is a software architect and researcher based out of Scotland. 
 
