@@ -4,7 +4,7 @@ We are an AI research and development company.
 
 We are lead by [@dipankar](https://github.com/dipankar), who is a software architect and researcher based out of Scotland. 
 
-We have been working in Machine Learning, Data Science and Artificial Intelligence for over a decade. We have developed recommendation systems and enhanced business processes for companies across the world. 
+We have been working in Machine Learning, Data Science and Artificial Intelligence for over a decade. We have developed recommendation systems and enhanced business processes for companies across the world. We have previously developed core analytics infrastructure in [Octo.ai](https://github.com/octoai). 
 
 We have lately been interested in generative AI, specifically LLMs and their business applications. We have started to publish and release open source code for our applied research. 
 
