@@ -1,15 +1,24 @@
-### Hi! I am [@terraprompt](https://twitter.com/terraprompt) (Terraprompt AI)
+# Terraprompt AI
 
-We are an AI research and development company. 
+## Delivering AI Solutions That Drive Business Value
 
-We are lead by [@dipankar](https://github.com/dipankar), who is a software architect and researcher based out of Scotland. 
+Terraprompt AI is a research-driven company that transforms businesses through applied artificial intelligence. Led by [@dipankar](https://github.com/dipankar), a software architect and researcher based in Scotland, we bridge the gap between cutting-edge AI research and practical business applications.
 
-We have been working in Machine Learning, Data Science and Artificial Intelligence for over a decade. We have developed recommendation systems and enhanced business processes for companies across the world. We have previously developed core analytics infrastructure in [OctoAI](https://github.com/octoai). 
+## Our Impact
 
-We have lately been interested in generative AI, specifically LLMs and their business applications. We have started to publish and release open source code for our applied research. 
+- **Enterprise Solutions**: Deployed recommendation systems that enhance decision-making and business processes for companies worldwide
+- **Infrastructure Innovation**: Developed core analytics infrastructure for [OctoAI](https://github.com/octoai), enabling robust data processing pipelines
+- **Applied Research**: Actively advancing generative AI with a focus on Large Language Models and their commercial applications
 
-Please do contact us, if our work is of interest. 🤓
+## Current Focus
 
-You can reach us on
- * [Website](https://www.terraprompt.org)
- * [Twitter](https://www.twitter.com/terraprompt)
+We're currently releasing open-source implementations of our applied research in generative AI, creating practical tools that solve real business challenges through LLM technology.
+
+## Connect With Us
+
+Ready to explore how our AI expertise can transform your business? Reach out through:
+
+- [Website](https://www.terraprompt.org)
+- [Twitter](https://www.twitter.com/terraprompt)
+
+*Bringing over a decade of machine learning and AI expertise to your most challenging business problems.*
