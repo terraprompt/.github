@@ -1,5 +1,3 @@
-# Terraprompt AI
-
 ## Delivering AI Solutions That Drive Business Value
 
 Terraprompt AI is a research-driven company that transforms businesses through applied artificial intelligence. Led by [@dipankar](https://github.com/dipankar), a software architect and researcher based in Scotland, we bridge the gap between cutting-edge AI research and practical business applications.
